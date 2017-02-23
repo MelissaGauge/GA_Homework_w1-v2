@@ -1,0 +1,111 @@
+
+<!--STYLESHEET FOR HOMEWORK_WEEK1 
+-->
+
+body {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 20px;
+	line-height: 100%;
+	background-color:#DFE7FF;
+	color: #696969;
+	border-style: none;
+	text-decoration: none;
+	}
+
+	/*can't do the background colour for the entire page */
+
+div {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 16px;
+	line-height: 100%;
+	color: #708090;
+	border-style: none;
+	text-decoration: none;
+	text-align: center; justify-content: 
+	}
+
+p {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	border-style: none;
+    margin: 10px 80px 10px 80px;
+    color: #696969;
+    padding: 5px
+	}
+
+
+h1 { 
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 30px;
+	line-height: 100%;
+	color: #731600;
+	border-style: none;
+	text-decoration: underline;
+	text-align: center;
+	}
+
+h2 {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 20px;
+	line-height: 100%;
+	border-style: none;
+	color: #731600;
+	text-decoration: none;
+	text-align: left;
+	}
+
+/* COMMENT: I feel like I am repeating the same information over and over - is this right??*/
+
+ul {
+	text-align: none;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 16px;
+	line-height: 200%;
+	list-style-type: none;
+	list-style-position: inside; 
+	margin: 0.5cm;
+    padding: 0.5em;
+    text-decoration: none;
+    color:#696969;
+	}
+
+
+ol {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 16px;
+	line-height: 100%;
+	list-style-type: "Comic Sans MS", cursive, sans-serif;
+	list-style-position: inside; 
+	margin: 2em;
+    padding: 0.5em;
+    text-decoration: none;
+    color: #696969;
+  	} 
+
+/* COMMENT: Not sure why the list isnt changing colour*/
+
+  a {
+  	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 15px;
+	line-height: 100%;
+	border-style: none;
+	text-decoration: none;
+	text-align: center;
+	color: #696969;
+  	}	
+
+alt {  
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 15px;
+	ine-height: 100%;
+	border-style: none;
+	text-decoration: none;
+	text-align: center;
+	color: #731600;
+	font-weight: bold;
+	}
+
+
+  }
+
+
+
